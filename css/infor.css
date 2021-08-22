@@ -1,0 +1,89 @@
+h5{
+     /* font-family: 'Oswald', sans-serif;  */
+    /* font-family: 'Lobster', cursive; */
+    /* font-family: 'Charm', cursive; */
+    /* font-family: 'Mr De Haviland', cursive; */
+    /* font-family: 'Italianno', cursive; */
+    /* font-family:'Times New Roman', Times, serif; */
+    font-size: 16px;
+    font-weight: bold;
+    color: #1c1c1d;
+}
+
+/* body {
+	background-image: url("bacground.png");
+} */
+
+h6{
+    font-family: 'Oswald', sans-serif; 
+   /* font-family: 'Lobster', cursive; */
+   /* font-family: 'Charm', cursive; */
+   /* font-family: 'Mr De Haviland', cursive; */
+   /* font-family: 'Italianno', cursive; */
+   font-size: 14px;
+   font-weight: bold;
+   color: #494944;
+}
+a{
+    /* font-family: 'Oswald', sans-serif; */
+    /* font-family: 'Lobster', cursive; */
+    /* font-family: 'Charm', cursive; */
+    /* font-family: 'Mr De Haviland', cursive; */
+    /* font-family: 'Italianno', cursive; */
+    font-size: 16px;
+    font-weight: bold;
+    color: #060618;
+    text-decoration: none;
+ 
+}
+
+.model{
+ 
+    background-color: white ;
+    border: solid 1px #c0bcbc;
+     height: 48px;
+      border-radius: 5px; 
+      margin: 7px;
+       
+       width: 70%;
+       margin:auto;
+      margin-bottom: 10px;
+
+}
+.model:hover{
+ 
+    background-color: rgb(228, 236, 206) ;
+
+}
+
+/* #fb:hover{
+    color: rgb(28, 13, 226);
+}
+#youtube:hover{
+    color: rgb(238, 43, 43);
+}
+#Email:hover{
+    color: rgb(228, 18, 228);
+}
+#Skype:hover{
+    color: rgb(26, 170, 236);
+}
+#Zalo:hover{
+    color: rgb(214, 132, 24);
+}
+#Github:hover{
+    color: purple;
+}
+
+#Twitter:hover{
+    color: rgb(57, 197, 240);
+}
+#Instagram:hover{
+    color: rgb(204, 65, 22);
+}
+#Phone:hover{
+    color: #25c462;
+}
+#Tiktok:hover{
+    color: rgb(12, 11, 11);
+} */
